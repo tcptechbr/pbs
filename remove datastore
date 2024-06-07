@@ -1,0 +1,3 @@
+REMOVE DATASTORE PBS
+
+proxmox-backup-manager datastore remove <name> [OPTIONS]
